@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Glossifungites icnofacies related to stratigraphic discontinuities of Mesozoic–Cenozoic deposits in the Arauco Basin, Central Chile"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Glossifungites icnofacies related to stratigraphic discontinuities of Mesozoic–Cenozoic deposits in the Arauco Basin, Central Chile'
 date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+venue: 'International Congress on Ichnology, ICHNIA 2024, Florianópolis, Brasil.'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Zambrano-Lobos, P., Jara-Cortes, M., Asenjo-Fernandoy, C., Encinas, A, (2024). Glossifungites icnofacies related to stratigraphic discontinuities of Mesozoic–Cenozoic deposits in the Arauco Basin, Central Chile. International Congress on Ichnology, ICHNIA 2024, Florianópolis, Brasil. '
 ---
 
 Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
