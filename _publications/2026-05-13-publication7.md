@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'paleobotany'
 date: 2025-02-17
 venue: 'XIX Reunión Argentina de Sedimentología (RAS), Córdoba, Argentina.'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 citation: 'Asenjo-Fernandoy, C., Ramos, C., Cisterna, K., Castillo, A., Giroux, P., Riffo, R., Manríquez, A., Zambrano, P., Navarrete, C., Echeverría, Y., & Jara, M. (2025, septiembre). Contextualización estratigráfica de las maderas fósiles de las comunas de Nacimiento y Angol, Chile. XIX Reunión Argentina de Sedimentología (RAS), Córdoba, Argentina. '
 ---
 
