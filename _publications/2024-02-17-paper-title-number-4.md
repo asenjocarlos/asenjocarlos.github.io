@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2025-09-21
 venue: 'XIX Reunión Argentina de Sedimentología (RAS)'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Asenjo-Fernandoy, C., Cabello, J., Zambrano-Lobos, P., Cárdenas, M. (2025, septiembre). Un marco aloestratigráfico para las sucesiones Neógeno-Cuaternario de la Depresión Central de Chile (37°-38° S). XIX Reunión Argentina de Sedimentología (RAS), Córdoba, Argentina. '
