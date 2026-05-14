@@ -6,7 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'Glossifungites icnofacies related to stratigraphic discontinuities of Mesozoic–Cenozoic deposits in the Arauco Basin, Central Chile'
 date: 2024-04-17
 venue: 'International Congress on Ichnology, ICHNIA 2024, Florianópolis, Brasil.'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://asenjocarlos.github.io/files/ichnia1.pdf'
 citation: 'Zambrano-Lobos, P., Jara-Cortes, M., Asenjo-Fernandoy, C., Encinas, A, (2024). Glossifungites icnofacies related to stratigraphic discontinuities of Mesozoic–Cenozoic deposits in the Arauco Basin, Central Chile. International Congress on Ichnology, ICHNIA 2024, Florianópolis, Brasil. '
 ---
 
