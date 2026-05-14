@@ -258,7 +258,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: Collaborattors
+      type: teaching
     values:
       layout: single
       author_profile: true
