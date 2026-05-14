@@ -3,7 +3,7 @@ title: "Nuevos registros fósiles de Nothofagus en la Región de la Araucanía, 
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'paleobotany'
+excerpt: 'Puedes ver más detalles sobre esta publicación en el [Portal BICYT del CONICET](https://bicyt.conicet.gov.ar/fichas/produccion/en/12789542).'
 date: 2025-02-17
 venue: 'XIII Congreso de la Asociación Paleontológica Argentina, Paraná, Argentina.'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
