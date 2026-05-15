@@ -11,7 +11,8 @@ author_profile: true
 Research interests: Applied ichnology-sedimentology-sequence stratigraphy.
 
 ---
-
+<br><b><a href="https://www.researchgate.net/profile/Manuel-Rojas-Manriquez=es">Manuel Rojas</a></b>, Ichnologist and stratigraphic geologist<br>
+Research interests: Continental ichnology-sedimentology-paleodunes.
 
 ---
 
