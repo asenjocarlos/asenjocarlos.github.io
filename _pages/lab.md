@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-<img style="float: center;" src="/images/macchioli.jpeg" width = "290" height = "290">
+<img style="float: center;" src="/files/foto1.jpg" width = "290" height = "290">
 <br><b><a href="https://scholar.google.com/citations?user=i6FSHwEAAAAJ&hl=es">Patricio Zambrano Lobos</a></b>, Ichnologist and stratigraphic geologist<br>
 Applied ichnology-sedimentology-sequence stratigraphy.
 Research interests: Hydrology, Geochemistry, Hydrogeology.
