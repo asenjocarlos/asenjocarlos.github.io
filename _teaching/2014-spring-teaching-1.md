@@ -16,3 +16,5 @@ location: "Santiago, Chile"
 ● Teaching Assistant for the Advanced Mining Geology course at UNAB Santiago.
 
 ● Field Teaching Assistant for the Field Geology course at UNAB Santiago. Fieldwork in Cuesta Chacabuco.
+
+---
