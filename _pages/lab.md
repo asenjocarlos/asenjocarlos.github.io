@@ -20,5 +20,5 @@ Research interests: Hydrology, Geochemistry, Hydrogeology.
 ---
 **Alumni**
 
-<b><a href="mailto: lore.ods24@gmail.com">Lord cerdas</a></b>, Honors thesis (2021) on reactive transport modeling of short-term weathering experiments. Geochemist at Amphos 21 Consultants.
+<b><a href="mailto:lore.ods24@gmail.com">Lord cerdas</a></b>, Honors thesis (2021) on reactive transport modeling of short-term weathering experiments. Geochemist at Amphos 21 Consultants.
 
