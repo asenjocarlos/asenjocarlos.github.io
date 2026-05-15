@@ -15,6 +15,7 @@ Research interests: Applied ichnology-sedimentology-sequence stratigraphy.
 Research interests: Continental ichnology-sedimentology-paleodunes.
 
 ---
-
+<br><b><a href="https://www.researchgate.net/profile/Camila-Leiva-Villegas">Camila Leiva Villegas</a></b>, Paleobotanist<br>
+Research interests: Cenozoic paleoflora - applied paleobotany.
 
 ---
