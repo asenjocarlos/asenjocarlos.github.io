@@ -8,7 +8,7 @@ date: 2021-09-01
 location: "Santiago, Chile"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Andean Geology, Advanced Field Geology, General geology
 
 Andean Geology
 ======
