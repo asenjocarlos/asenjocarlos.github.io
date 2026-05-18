@@ -4,17 +4,17 @@ collection: teaching
 type: "Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Andres Bello University, Geology"
-date: 2015-01-01
-location: "City, Country"
+date: 2021-09-01
+location: "Santiago, Chile"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Andean Geology
 ======
 
-Heading 2
+Advanced Field Geology
 ======
 
-Heading 3
+General geology
 ======
