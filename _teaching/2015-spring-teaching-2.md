@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience UNAB"
 collection: teaching
-type: "Courses"
+type: "Undergraduated Courses"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Andres Bello University, Geology"
 date: 2021-09-01
